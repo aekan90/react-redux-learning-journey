@@ -5,7 +5,7 @@
 
 Bu repo, React.js ve Redux öğrenmeye yönelik hazırladığım eğitim serisinin temel projelerini içermektedir. Eğitim serisinde React'ın temelleri, Redux ile durum yönetimi, React Router ile yönlendirme gibi konuları ele alacağım.
 
-## Öğrenecekleriniz
+## Öğrenecekleriniz 
 - ReactJS ve temelleri
 - Redux nedir ve nasıl kullanılır
 - React Router ile yönlendirme işlemleri
