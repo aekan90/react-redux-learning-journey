@@ -1,5 +1,5 @@
 İşte React ve Redux ile eğitim sürecinizi destekleyecek React uygulama örnekleri içerir
- 
+  
 ```markdown
 # React & Redux Learning Journey
 
